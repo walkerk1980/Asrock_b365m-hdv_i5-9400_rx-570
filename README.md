@@ -1,5 +1,7 @@
 # Asrock_b365m-hdv_i5-9400_rx-570
 
+MacOS 10.15.2 Catalina 
+
 Hardware:
 
 ASRock B365M-HDV
